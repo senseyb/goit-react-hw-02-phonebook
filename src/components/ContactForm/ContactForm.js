@@ -9,7 +9,7 @@ class ContactForm extends Component {
   };
 
   state = {
-    id: uuid(),
+    // id: uuid(),
     name: "",
     number: "",
   };
